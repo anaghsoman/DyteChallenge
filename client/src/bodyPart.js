@@ -116,7 +116,7 @@ export default function SimpleTabs() {
       </form>
       </TabPanel>
       <TabPanel value={value} index={2}>
-      <form id="messages" onSubmitCapture={getPostsData()}>
+      <form id="messages" onSubmitCapture={getPostsData(),console.log(value1,value2,value3,value4)}>
         <Box component="span" m={2}><TextField name="url" label="URL" variant="outlined" fullWidth="true" size="large" onChange={handleChange4}/></Box>
         <Box m={3}>
           <FormControl component="fieldset">
