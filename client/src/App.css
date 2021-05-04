@@ -1,0 +1,20 @@
+
+.Setup{
+  display: flex;
+}
+
+.Topbar{
+  width: 100%;
+}
+
+.signin{
+  height: 70px;
+}
+
+.signup{
+  height: 70px;
+}
+
+.Bodypart{
+  position:relative;
+}

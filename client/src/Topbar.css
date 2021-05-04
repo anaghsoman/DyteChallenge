@@ -1,0 +1,25 @@
+
+
+.menuBar{
+    background-color:lightgray;
+    
+}
+
+.topNav{
+    display: flex;
+    background-color: rgb(230, 226, 224);
+    object-fit: contain;
+    height: 35px;
+    justify-content: space-between;
+}
+
+
+
+
+.Body1{
+    background-color: white;
+    padding: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}

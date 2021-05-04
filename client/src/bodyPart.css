@@ -1,0 +1,7 @@
+.formclass{
+    display: flex;
+}
+
+.fillwidth{
+    flex:1;
+}
